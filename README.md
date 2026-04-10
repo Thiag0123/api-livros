@@ -1,14 +1,14 @@
-# 📚 API de Livros
+# API de Livros
 
-## 📌 Descrição
+## Descrição
 API REST completa com CRUD de livros.
 
-## 🚀 Tecnologias
+## Tecnologias
 - Node.js
 - Express
 - SQLite
 
-## 📂 Endpoints
+## Endpoints
 
 ### GET /livros
 Lista todos os livros
@@ -28,10 +28,10 @@ Atualiza parcialmente
 ### DELETE /livros/:id
 Remove um livro
 
-## 🧪 Testes
+## Testes
 Collection do Postman incluída no projeto.
 
-## ▶️ Como rodar
+## Como rodar
 
 ```bash
 npm install
