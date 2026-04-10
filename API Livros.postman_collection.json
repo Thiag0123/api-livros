@@ -1,0 +1,40 @@
+{
+  "info": {
+    "_postman_id": "4d522819-77ab-4ce4-b5a9-c4db1912d597",
+    "name": "API Livros",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "53308184",
+    "_collection_link": "https://go.postman.co/collection/53308184-4d522819-77ab-4ce4-b5a9-c4db1912d597?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:3000/livros/1",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "livros",
+            "1"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
